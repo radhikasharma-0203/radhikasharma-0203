@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif)
 <h1 align="center">Hi, I'm Radhika Sharma</h1>
 <h3 align="center">Passionate AIML Engineer holds command in coding languages i.e,Python,C++ and JAVA.Understands business objectives and design models that will help them to track their progress.Analyzing algorithms to solve critical problems.#Thinkbigdobig</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ae/7c/d0/ae7cd05d9438e3a42f955718affa1c9b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikasharma&label=Profile%20views&color=0e75b6&style=flat" alt="radhikasharma" /> </p>
 
