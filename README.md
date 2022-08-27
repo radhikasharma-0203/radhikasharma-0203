@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif)
+![MasterHead](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif)
 <h1 align="center">Hi, I'm Radhika Sharma</h1>
 <h3 align="center">Passionate AIML Engineer holds command in coding languages i.e,Python,C++ and JAVA.Understands business objectives and design models that will help them to track their progress.Analyzing algorithms to solve critical problems.#Thinkbigdobig</h3>
 
