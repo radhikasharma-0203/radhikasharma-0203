@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/radhika61634482" target="blank"><img src="https://img.shields.io/twitter/follow/radhika61634482?logo=twitter&style=for-the-badge" alt="radhika61634482" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,Python,JAVA,MySQL,MongoDB,AI & ML**
+- 🌱 C,C++,Python,JAVA,MySQL,MongoDB,AI & ML**
 
 - 💬 Ask me about **C,C++,Python,JAVA,MySQL,MongoDB,AI & ML**
 
